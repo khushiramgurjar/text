@@ -1,2 +1,10 @@
 welcome guys github 
 your fist time it's ok i am here
+"Bye GUYS"
+see you soon
+
+for i in range(500):
+     print(i)
+     i = i+1
+else:
+    print("Bye")
